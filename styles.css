@@ -1,0 +1,487 @@
+body{
+    background-color: rgb(241, 241, 245);
+    height: 100cm;
+    width: 60cm;
+}
+#logo{
+    position: absolute;
+    top: 1.2cm;
+    left:4cm;
+    width:6%;
+}
+#fur{
+    position: absolute;
+    top:53px;
+    left:6.6cm;
+    font-size: 30px;
+    font-weight: 700;
+}
+#home{
+    position: absolute;
+    top:88px;
+    left:9cm;
+    color: red;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+ul{
+    list-style-type: none;
+
+}
+#trend{
+    position: absolute;
+    top:88px;
+    left:14cm;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+
+}
+#about{
+    position: absolute;
+    top:88px;
+    left:19cm;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+#contact{
+    position: absolute;
+    top:88px;
+    left:24cm;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+#glass{
+    position: absolute;
+    top:88px;
+    left:32cm;
+    font-size: x-large;
+    /* color: white; */
+    font-weight: 500;
+}
+#login{
+    position: absolute;
+    top:88px;
+    left:33.5cm;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+#sign{
+    position: absolute;
+    top:88px;
+    left:36cm;
+    padding: 9px 24px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: red;
+}
+#en{
+    position: absolute;
+    top:75px;
+    left:40cm;
+    font-size: 20px;
+}
+#down {
+    position: absolute;
+    top:80px;
+    left:41cm;
+    font-size: 45px;
+}
+#head1{
+    position: absolute;
+    top:4cm;
+    left:2cm;
+    font-size: 4cm;
+}
+#fix{
+    color: red;
+}
+#lorem{
+    position: absolute;
+    top:22cm;
+    left:2cm;
+    font-size: 23px;
+}
+#shoe1{
+    position: absolute;
+    top: 4cm;
+    left:25cm;
+    width:95%;
+}
+#find{
+    position: absolute;
+    top:27cm;
+    left:2cm;
+    font-size: 23px;
+    padding: 14px 40px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    background-image:linear-gradient(to right, rgb(235, 10, 164) , rgb(208, 109, 34));
+}
+#play{
+    position: absolute;
+    top:26.6cm;
+    left:10cm;
+    border-radius: 100%;
+    padding: 20px 20px;
+    font-size: 1.2cm;
+    background-color: rgb(235, 10, 164);
+    color: white;
+    border: none;
+}
+#best{
+    position: absolute;
+    top:35cm;
+    font-size: 2cm;
+    left: 24cm;
+}
+.white1{
+    position: absolute;
+    top: 43cm;
+    left:7cm;
+    background-color: white;
+    width: 15.4cm;
+    height: 8cm;
+    border-radius: 10px;
+    
+}
+.gradient1{ 
+    position: absolute;
+    height: 8cm;
+    width: 7cm;
+    border-radius: 10px;
+    background-image:linear-gradient( rgb(10, 235, 224) , rgb(129, 10, 153));
+}
+#shoe2{
+    position: absolute;
+    top: 40.6cm;
+    left: 5cm;
+    width: 30%;
+}
+.white2{
+    position: absolute;
+    top: 43cm;
+    left:28cm;
+    background-color: white;
+    width: 15.4cm;
+    height: 8cm;
+    border-radius: 10px;
+}
+.gradient2{ 
+    position: absolute;
+    height: 8cm;
+    width: 7cm;
+    border-radius: 10px;
+    background-image:linear-gradient( rgb(10, 235, 224) , rgb(180, 43, 22));
+}
+#shoe3{
+    position: absolute;
+    top: 39.3cm;
+    left: 25cm;
+    width: 33%;   
+}
+.white3{
+        position: absolute;
+        top: 43cm;
+        left:48cm;
+        background-color: white;
+        width: 15.4cm;
+        height: 8cm;
+        border-radius: 10px;
+    }
+.gradient3{ 
+    position: absolute;
+    height: 8cm;
+    width: 7cm;
+    border-radius: 10px;
+    background-image:linear-gradient( rgb(139, 106, 102), rgb(180,43,22));
+}
+#shoe4{
+    position: absolute;
+    top: 35.8cm;
+    left: 42cm;
+    width: 41%;
+}
+h3{
+    font-size: 30px;
+}
+#puma{
+    position: absolute;
+    top:44cm;
+    left: 18cm;
+}
+#nike{
+    position: absolute;
+    top:44cm;
+    left: 38cm;
+}
+#adidas{
+    position: absolute;
+    top:44cm;
+    left: 58cm;
+}
+#men1{
+    position: absolute;
+    top:46cm;
+    font-size: x-large;
+    left: 18cm;
+}
+#men2{
+    position: absolute;
+    top:46cm;
+    font-size: x-large;
+    left: 38cm;
+}
+#men3{
+    position: absolute;
+    top:46cm;
+    font-size: x-large;
+    left: 58cm;
+}
+#view1{
+    position: absolute;
+    top:50cm;
+    font-size: x-large;
+    left: 18cm; 
+    padding: 5px 13px;
+    border-radius: 7px;
+    border: none;
+    color: white;
+    background-color: red;
+}
+#view2{
+    position: absolute;
+    top:50cm;
+    font-size: x-large;
+    left: 38cm; 
+    padding: 5px 13px;
+    border-radius: 7px;
+    border: none;
+    color: white;
+    background-color: red;
+}
+#view3{
+    position: absolute;
+    top:50cm;
+    font-size: x-large;
+    left:58cm; 
+    padding: 5px 13px;
+    border-radius: 7px;
+    border: none;
+    color: white;
+    background-color: red;
+}
+#featured{
+    position: absolute;
+    top:56cm;
+    font-size: 2cm;
+    left: 24cm;
+}
+#men{
+    position: absolute;
+    top: 62cm;
+    left: 7cm;
+    font-size: 50px;
+    color: red;
+}
+#women{
+    position: absolute;
+    top: 62cm;
+    left: 15cm;
+    font-size: 50px;
+}
+#kids{
+    position: absolute;
+    top: 62cm;
+    left: 23cm;
+    font-size: 50px;
+}
+#white5{
+    position: absolute;
+    top: 68cm;
+    left: 7cm;
+    width: 10cm;
+    height: 14cm;
+    background-color: white;
+}
+#shoe5{
+    position: absolute;
+    top: 65.5cm;
+    left: 4cm;
+    width: 32%;
+}
+#heart1{
+    position: absolute;
+    top: 68.5cm;
+    left: 7.4cm;
+    font-size: 1cm;
+}
+
+#white6{
+    position: absolute;
+    top: 68cm;
+    left: 19cm;
+    width: 10cm;
+    height: 14cm;
+    background-color: white;
+}
+#shoe6{
+    position: absolute;
+    top: 65.5cm;
+    left: 15.4cm;
+    width: 31%;
+}
+#heart2{
+    position: absolute;
+    top: 68.5cm;
+    left: 19.5cm;
+    font-size: 1cm;
+}
+#white7{
+    position: absolute;
+    top: 68cm;
+    left: 31cm;
+    width: 10cm;
+    height: 14cm;
+    background-color: white;
+}
+#shoe7{
+    position: absolute;
+    top: 65.5cm;
+    left: 28cm;
+    width: 31%;
+}
+#heart3{
+    position: absolute;
+    top: 68.5cm;
+    left: 31.5cm;
+    font-size: 1cm;
+}
+#white8{
+    position: absolute;
+    top: 68cm;
+    left: 43cm;
+    width: 10cm;
+    height: 14cm;
+    background-color: white;
+}
+#shoe8{
+    position: absolute;
+    top: 66cm;
+    left: 40cm;
+    width: 31%;
+}
+#heart4{
+    position: absolute;
+    top: 68.5cm;
+    left: 43.6cm;
+    font-size: 1cm;
+}
+/* hhhhhhhhhhhhhhhhh */
+
+
+#white9{
+    position: absolute;
+    top: 87cm;
+    left: 7cm;
+    width: 10cm;
+    height: 14cm;
+    background-color: white;
+}
+#shoe9{
+    position: absolute;
+    top: 87.3cm;
+    left: 5.8cm;
+    width: 25%;
+}
+#heart5{
+    position: absolute;
+    top: 87.5cm;
+    left: 7.4cm;
+    font-size: 1cm;
+}
+
+#white10{
+    position: absolute;
+    top: 87cm;
+    left: 19cm;
+    width: 10cm;
+    height: 14cm;
+    background-color: white;
+}
+#shoe10{
+    position: absolute;
+    top: 84.5cm;
+    left: 16cm;
+    width: 30%;
+}
+#heart6{
+    position: absolute;
+    top: 87.5cm;
+    left: 19.5cm;
+    font-size: 1cm;
+}
+#white11{
+    position: absolute;
+    top: 87cm;
+    left: 31cm;
+    width: 10cm;
+    height: 14cm;
+    background-color: white;
+}
+#shoe11{
+    position: absolute;
+    top: 85cm;
+    left: 28cm;
+    width: 31%;
+}
+#heart7{
+    position: absolute;
+    top: 87.5cm;
+    left: 31.5cm;
+    font-size: 1cm;
+}
+#white12{
+    position: absolute;
+    top: 87cm;
+    left: 43cm;
+    width: 10cm;
+    height: 14cm;
+    background-color: white;
+}
+#shoe12{
+    position: absolute;
+    top: 84cm;
+    left: 39cm;
+    width: 36%;
+}
+#heart8{
+    position: absolute;
+    top: 87.5cm;
+    left: 43.6cm;
+    font-size: 1cm;
+}
+#see{
+    position: absolute;
+    top: 102cm;
+    left: 27cm;
+    padding: 20px 70px;
+    border-radius: 13px;
+    font-size: 27px;
+    background: linear-gradient(white, white) padding-box,linear-gradient(to top right, rgb(184, 28, 190), rgb(202, 144, 19)) border-box;
+    border: 5px solid transparent;
+
+}
+#arrivals{
+    position: absolute;
+    top: 106cm;
+    left: 24cm;
+    font-size: 2cm;
+}
+
